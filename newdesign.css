@@ -10,7 +10,7 @@ hr{
 }
 img:hover{
     background-color: rgb(155, 241, 97);
-    transform: translateY(5%);
+    transform: translateY(5px);
 }
 .picture{
     width: 70%;
